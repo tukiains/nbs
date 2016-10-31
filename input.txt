@@ -1,0 +1,20 @@
+% Number of objects:
+2
+
+% Length of the simulation (days): 
+4349.41
+
+% Length of the time step (s):
+3600.0
+
+% Masses of the objects (kg):
+1.989e30
+1.898e27
+
+% Initial (x,y,z) positions of the objects (m):
+0.0 0.0 0.0
+0.0 740520e6 0.0
+
+% Initial (dx,dy,dz) velocities of the objects (m/s):
+-13.0923 0.0 0.0
+13720.0 0.0 0.0
